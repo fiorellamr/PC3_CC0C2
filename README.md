@@ -3,9 +3,15 @@
 ## Proyecto 1: Integración de subword embeddings en redes neuronales recurrentes (RNNs) para procesamiento de lenguaje natural
 
 
+| **Nombre del Estudiante** | **Código del Estudiante** |
+|---------------------------|---------------------------|
+| Fiorella Meza             | 20192730G        |
+
+
+
 Este proyecto implementa un modelo de Redes Neuronales Recurrentes (RNN) para la clasificación de intenciones, utilizando subword embeddings generados mediante Byte Pair Encoding (BPE). El objetivo es predecir la intención de un texto dado en lenguaje natural.
 
----
+
 
 ## Tabla de Contenidos
 
